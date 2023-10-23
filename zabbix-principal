@@ -1,9 +1,6 @@
 #!/bin/sh
 
 # Sumário: Script de instalação fácil em Debian 11 com o Zabbix 6 e MySQL 8
-# Autor: Vitor Mazuco
-# Contato: contato@vmzsolutions.com.br
-# Data: 19/05/2022
 
 # Correção de PATH
 export PATH="/sbin:/usr/sbin:/bin:/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/games"
